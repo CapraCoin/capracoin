@@ -28,8 +28,8 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>capracoin/capracoin-mn-setup.sh at master · nashsclay/capracoin</title>
-    <meta name="description" content="Masternode Install Script. Contribute to nashsclay/capracoin development by creating an account on GitHub.">
+  <title>capracoin/capracoin-mn-setup.sh at master · CryptoCook/capracoin</title>
+    <meta name="description" content="Masternode Install Script. Contribute to CryptoCook/capracoin development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -80,14 +80,14 @@
   <meta http-equiv="x-pjax-version" content="c9e6aa849b8e8aca3677acbd9a0c14c9">
   
 
-      <link href="https://github.com/nashsclay/capracoin/commits/master.atom" rel="alternate" title="Recent Commits to capracoin:master" type="application/atom+xml">
+      <link href="https://github.com/CapraCoin/capracoin/commits/master.atom" rel="alternate" title="Recent Commits to capracoin:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/nashsclay/capracoin git https://github.com/nashsclay/capracoin.git">
+  <meta name="go-import" content="github.com/CapraCoin/capracoin git https://github.com/CapraCoin/capracoin.git">
 
-  <meta name="octolytics-dimension-user_id" content="6693056" /><meta name="octolytics-dimension-user_login" content="nashsclay" /><meta name="octolytics-dimension-repository_id" content="141951699" /><meta name="octolytics-dimension-repository_nwo" content="nashsclay/capracoin" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="141951699" /><meta name="octolytics-dimension-repository_network_root_nwo" content="nashsclay/capracoin" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="6693056" /><meta name="octolytics-dimension-user_login" content="cryptocook" /><meta name="octolytics-dimension-repository_id" content="141951699" /><meta name="octolytics-dimension-repository_nwo" content="CapraCoin/capracoin" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="141951699" /><meta name="octolytics-dimension-repository_network_root_nwo" content="CapraCoin/capracoin" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/nashsclay/capracoin/blob/master/capracoin-mn-setup.sh" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/CapraCoin/capracoin/blob/master/capracoin-mn-setup.sh" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -143,7 +143,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="141951699" data-scoped-search-url="/nashsclay/capracoin/search" data-unscoped-search-url="/search" action="/nashsclay/capracoin/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="141951699" data-scoped-search-url="/CapraCoin/capracoin/search" data-unscoped-search-url="/search" action="/CapraCoin/capracoin/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -277,9 +277,9 @@
 
   <div class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="nashsclay/capracoin">This repository</span>
+    <span title="CapraCoin/capracoin">This repository</span>
   </div>
-    <a role="menuitem" class="dropdown-item" href="/nashsclay/capracoin/issues/new" data-ga-click="Header, create new issue">
+    <a role="menuitem" class="dropdown-item" href="/CapraCoin/capracoin/issues/new" data-ga-click="Header, create new issue">
       New issue
     </a>
 
@@ -416,7 +416,7 @@
         </details-menu>
       </details>
       <a class="social-count js-social-count"
-        href="/nashsclay/capracoin/watchers"
+        href="/CapraCoin/capracoin/watchers"
         aria-label="1 user is watching this repository">
         1
       </a>
@@ -426,32 +426,32 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/nashsclay/capracoin/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RdjDk27R/C05r3mr0Vm5OvSyyW7rGm55wGgJo3lfeiLQfaNNqKRIz34vWmwu+WfCAKYgq7rOOxZFAxJ2KhGV3Q==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/CapraCoin/capracoin/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RdjDk27R/C05r3mr0Vm5OvSyyW7rGm55wGgJo3lfeiLQfaNNqKRIz34vWmwu+WfCAKYgq7rOOxZFAxJ2KhGV3Q==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar nashsclay/capracoin"
+        aria-label="Unstar this repository" title="Unstar CapraCoin/capracoin"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/nashsclay/capracoin/stargazers"
+        <a class="social-count js-social-count" href="/CapraCoin/capracoin/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/nashsclay/capracoin/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YcUKfBxsaSqZc4sklDopnbZ0kKaThregDzun3zeR/2ZjVVgZnX+1cq+S9Q2hiWf+EsyhKknl6VYCfxFkc9Xm1w==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/CapraCoin/capracoin/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YcUKfBxsaSqZc4sklDopnbZ0kKaThregDzun3zeR/2ZjVVgZnX+1cq+S9Q2hiWf+EsyhKknl6VYCfxFkc9Xm1w==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star nashsclay/capracoin"
+        aria-label="Star this repository" title="Star CapraCoin/capracoin"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/nashsclay/capracoin/stargazers"
+        <a class="social-count js-social-count" href="/CapraCoin/capracoin/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
@@ -460,18 +460,18 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/nashsclay/capracoin/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vrmrbt30c3uXzoZxpaATSIgT646N/h+xB6WQU9k/nOtpUInHyYv90yFwZ+mp9w/OgSn7rJLGv9sCOdnUXSuS3g==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/CapraCoin/capracoin/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vrmrbt30c3uXzoZxpaATSIgT646N/h+xB6WQU9k/nOtpUInHyYv90yFwZ+mp9w/OgSn7rJLGv9sCOdnUXSuS3g==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
                 data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
-                title="Fork your own copy of nashsclay/capracoin to your account"
-                aria-label="Fork your own copy of nashsclay/capracoin to your account">
+                title="Fork your own copy of CapraCoin/capracoin to your account"
+                aria-label="Fork your own copy of CapraCoin/capracoin to your account">
               <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
             </button>
 </form>
-    <a href="/nashsclay/capracoin/network/members" class="social-count"
+    <a href="/CapraCoin/capracoin/network/members" class="social-count"
        aria-label="0 users forked this repository">
       0
     </a>
@@ -480,9 +480,9 @@
 
       <h1 class="public ">
   <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6693056" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/nashsclay">nashsclay</a></span><!--
+  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6693056" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/CapraCoin">capracoin</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/nashsclay/capracoin">capracoin</a></strong>
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/CapraCoin/capracoin">capracoin</a></strong>
 
 </h1>
 
@@ -495,14 +495,14 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /nashsclay/capracoin" href="/nashsclay/capracoin">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /CapraCoin/capracoin" href="/CapraCoin/capracoin">
       <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /nashsclay/capracoin/issues" href="/nashsclay/capracoin/issues">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /CapraCoin/capracoin/issues" href="/CapraCoin/capracoin/issues">
         <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
         <span itemprop="name">Issues</span>
         <span class="Counter">0</span>
@@ -510,7 +510,7 @@
 </a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /nashsclay/capracoin/pulls" href="/nashsclay/capracoin/pulls">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /CapraCoin/capracoin/pulls" href="/CapraCoin/capracoin/pulls">
       <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
       <span class="Counter">0</span>
@@ -518,17 +518,17 @@
 </a>  </span>
 
 
-    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /nashsclay/capracoin/projects" href="/nashsclay/capracoin/projects">
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /CapraCoin/capracoin/projects" href="/CapraCoin/capracoin/projects">
       <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
       Projects
       <span class="Counter" >0</span>
 </a>
 
-    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /nashsclay/capracoin/wiki" href="/nashsclay/capracoin/wiki">
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /CapraCoin/capracoin/wiki" href="/CapraCoin/capracoin/wiki">
       <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
-  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts security /nashsclay/capracoin/pulse" href="/nashsclay/capracoin/pulse">
+  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts security /CapraCoin/capracoin/pulse" href="/CapraCoin/capracoin/pulse">
     <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
     Insights
 </a>
@@ -544,7 +544,7 @@
     
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/nashsclay/capracoin/blob/38656935a9b6ce3d251f8e4dd611059fc3292785/capracoin-mn-setup.sh">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/CapraCoin/capracoin/blob/38656935a9b6ce3d251f8e4dd611059fc3292785/capracoin-mn-setup.sh">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v21:9f5c66896e1884425451322cc166f5af -->
 
@@ -590,7 +590,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/nashsclay/capracoin/blob/master/capracoin-mn-setup.sh"
+               href="/CapraCoin/capracoin/blob/master/capracoin-mn-setup.sh"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -609,7 +609,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/nashsclay/capracoin/tree/v1.0/capracoin-mn-setup.sh"
+              href="/CapraCoin/capracoin/tree/v1.0/capracoin-mn-setup.sh"
               data-name="v1.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -639,7 +639,7 @@
         </clipboard-copy>
       </div>
       <div id="blob-path" class="breadcrumb">
-        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/nashsclay/capracoin"><span>capracoin</span></a></span></span><span class="separator">/</span><strong class="final-path">capracoin-mn-setup.sh</strong>
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/CapraCoin/capracoin"><span>capracoin</span></a></span></span><span class="separator">/</span><strong class="final-path">capracoin-mn-setup.sh</strong>
       </div>
     </div>
 
@@ -647,15 +647,15 @@
     
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/nashsclay/capracoin/commit/2eb813f2fa5d5fe07d4eaa12fb1155cdc2f07bfe" data-pjax>
+        <a class="commit-tease-sha" href="/CapraCoin/capracoin/commit/2eb813f2fa5d5fe07d4eaa12fb1155cdc2f07bfe" data-pjax>
           2eb813f
         </a>
         <relative-time datetime="2018-07-23T15:52:29Z">Jul 23, 2018</relative-time>
       </span>
       <div>
-        <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6693056" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/nashsclay"><img class="avatar" src="https://avatars1.githubusercontent.com/u/6693056?s=40&amp;v=4" width="20" height="20" alt="@nashsclay" /></a>
-        <a class="user-mention" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6693056" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/nashsclay">nashsclay</a>
-          <a data-pjax="true" title="Update capracoin-mn-setup.sh" class="message" href="/nashsclay/capracoin/commit/2eb813f2fa5d5fe07d4eaa12fb1155cdc2f07bfe">Update capracoin-mn-setup.sh</a>
+        <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6693056" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/CapraCoin"><img class="avatar" src="https://avatars1.githubusercontent.com/u/6693056?s=40&amp;v=4" width="20" height="20" alt="@CapraCoin" /></a>
+        <a class="user-mention" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6693056" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/CapraCoin">CapraCoin</a>
+          <a data-pjax="true" title="Update capracoin-mn-setup.sh" class="message" href="/CapraCoin/capracoin/commit/2eb813f2fa5d5fe07d4eaa12fb1155cdc2f07bfe">Update capracoin-mn-setup.sh</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -675,9 +675,9 @@
     
         <ul class="list-style-none overflow-auto">
             <li class="Box-row">
-              <a class="link-gray-dark no-underline" href="/nashsclay">
+              <a class="link-gray-dark no-underline" href="/CapraCoin">
                 <img class="avatar mr-2" alt="" src="https://avatars1.githubusercontent.com/u/6693056?s=40&amp;v=4" width="20" height="20" />
-                nashsclay
+                CapraCoin
 </a>            </li>
         </ul>
 
@@ -695,25 +695,25 @@
 
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/nashsclay/capracoin/raw/master/capracoin-mn-setup.sh">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/nashsclay/capracoin/blame/master/capracoin-mn-setup.sh">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/nashsclay/capracoin/commits/master/capracoin-mn-setup.sh">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/CapraCoin/capracoin/raw/master/capracoin-mn-setup.sh">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/CapraCoin/capracoin/blame/master/capracoin-mn-setup.sh">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/CapraCoin/capracoin/commits/master/capracoin-mn-setup.sh">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="x-github-client://openRepo/https://github.com/nashsclay/capracoin?branch=master&amp;filepath=capracoin-mn-setup.sh"
+           href="x-github-client://openRepo/https://github.com/CapraCoin/capracoin?branch=master&amp;filepath=capracoin-mn-setup.sh"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/nashsclay/capracoin/edit/master/capracoin-mn-setup.sh" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="f2f2Kgq8MMwSEy0KxDy+1o+aOUZww5xtkV9IBJCez4UV5bCfqqHaCeh/5FvoFaHZwuST85ondhKT2/c3FGlw0Q==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/CapraCoin/capracoin/edit/master/capracoin-mn-setup.sh" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="f2f2Kgq8MMwSEy0KxDy+1o+aOUZww5xtkV9IBJCez4UV5bCfqqHaCeh/5FvoFaHZwuST85ondhKT2/c3FGlw0Q==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/nashsclay/capracoin/delete/master/capracoin-mn-setup.sh" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="BVOr9A4v4RWAWldbkZMjh2rR8bZ4HjFFIlYkkUX0Crs3sCgtOiNlS63lYoQLgrDYpndfwaKOmNQBI/6Pmv9eoA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/CapraCoin/capracoin/delete/master/capracoin-mn-setup.sh" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="BVOr9A4v4RWAWldbkZMjh2rR8bZ4HjFFIlYkkUX0Crs3sCgtOiNlS63lYoQLgrDYpndfwaKOmNQBI/6Pmv9eoA==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -770,7 +770,7 @@
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">COIN_TGZ=<span class="pl-s"><span class="pl-pds">&#39;</span>https://github.com/nashsclay/capracoin/releases/download/v1.0/capracoin-mn-setup.tar.gz<span class="pl-pds">&#39;</span></span></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">COIN_TGZ=<span class="pl-s"><span class="pl-pds">&#39;</span>https://github.com/CapraCoin/capracoin/releases/download/v1.0.0.2/capracoin-mn-setup.tar.gz<span class="pl-pds">&#39;</span></span></td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
@@ -1894,8 +1894,8 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/nashsclay/capracoin/blame/38656935a9b6ce3d251f8e4dd611059fc3292785/capracoin-mn-setup.sh">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/nashsclay/capracoin/issues/new">Open new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/CapraCoin/capracoin/blame/38656935a9b6ce3d251f8e4dd611059fc3292785/capracoin-mn-setup.sh">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/CapraCoin/capracoin/issues/new">Open new issue</a></li>
       </ul>
     </details-menu>
   </details>
@@ -1929,7 +1929,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.26292s from unicorn-84ccf96fd6-6zw8m">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2019 <span title="0.26292s from unicorn-84ccf96fd6-6zw8m">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
